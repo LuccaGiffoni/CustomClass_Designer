@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CustomClass_Designer/1.0.0": {
+        "runtime": {
+          "CustomClass_Designer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomClass_Designer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

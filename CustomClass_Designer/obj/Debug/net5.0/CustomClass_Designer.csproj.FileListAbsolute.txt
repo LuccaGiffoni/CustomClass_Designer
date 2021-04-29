@@ -1,0 +1,16 @@
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.csprojAssemblyReference.cache
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.AssemblyInfoInputs.cache
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.AssemblyInfo.cs
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.csproj.CoreCompileInputs.cache
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.exe
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.deps.json
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.runtimeconfig.json
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.runtimeconfig.dev.json
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.dll
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\ref\CustomClass_Designer.dll
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\bin\Debug\net5.0\CustomClass_Designer.pdb
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.dll
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\ref\CustomClass_Designer.dll
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.pdb
+C:\Users\lucca\source\repos\CustomClass_Designer\CustomClass_Designer\obj\Debug\net5.0\CustomClass_Designer.genruntimeconfig.cache
