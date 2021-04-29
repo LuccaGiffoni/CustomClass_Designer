@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MyCustomClass
+﻿namespace MyCustomClass
 {
 
     public class MyCart
@@ -8,6 +6,7 @@ namespace MyCustomClass
 
         #region Fields
         // Creating the fields this class gonna have -- in this case, my products and it's respective price
+        // You can create infinte fields if you want, just remember to crate the Properties for each new field
 
         // Laptops
         private int laptopsCount;
@@ -21,13 +20,14 @@ namespace MyCustomClass
         private int mousesCount;
         public int mousePrice = 49;
 
+        // Amount of money -- will be used on the CheckOut method
         private int totalAmount;
 
         #endregion
 
         #region Properties
-        // Creating only-read properties to use along the program
-
+        // Creating only-read properties to display info when needed
+        // This properties will be used to allocate custom data from the user without the need to be allocated before.
         public int Laptop
         {
             get { return laptopsCount; return laptopPrice; }
@@ -44,15 +44,16 @@ namespace MyCustomClass
         }
 
         public int Amount
-        { 
-            get { return totalAmount;  }
+        {
+            get { return totalAmount; }
         }
 
 
         #endregion
 
-        #region Constructors
-
+        #region Constructor
+        // This constructor is crucial to the program work, it'll deploy a new 'cart' for your user, totally empty and ready to use.
+        // Think this as the literal shopping cart you get every time you go buy something on the market.
         public MyCart(int laptopQuantity, int phoneQuantity, int mouseQuantity)
         {
             laptopsCount = laptopQuantity;
@@ -63,7 +64,8 @@ namespace MyCustomClass
         #endregion
 
         #region Methods
-
+        // This is the only method I choose to use, you can create many more if you wanna.
+        // This method makes the automatic check-out process. You just need to call it -- as done on the 'UsingTheClass' file.
         public void CheckOut()
         {
             totalAmount = (laptopsCount * laptopPrice) + (phonesCount * phonePrice) + (mousesCount * mousePrice);
